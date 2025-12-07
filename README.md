@@ -20,9 +20,14 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/heran-hailemariam/leetcode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/0046-permutations) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/0046-permutations) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/heran-hailemariam/leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
