@@ -39,6 +39,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/heran-hailemariam/leetcode/tree/master/0013-roman-to-integer) |
+| [1925-count-square-sum-triples](https://github.com/heran-hailemariam/leetcode/tree/master/1925-count-square-sum-triples) |
 ## Recursion
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/heran-hailemariam/leetcode/tree/master/0013-roman-to-integer) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/heran-hailemariam/leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
