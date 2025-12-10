@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/heran-hailemariam/leetcode/tree/master/0013-roman-to-integer) |
+| [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Enumeration
 |  |
 | ------- |
@@ -71,4 +72,12 @@
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
