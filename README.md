@@ -26,6 +26,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/heran-hailemariam/leetcode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/0046-permutations) |
+| [0118-pascals-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0118-pascals-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Backtracking
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
