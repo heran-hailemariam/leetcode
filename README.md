@@ -56,6 +56,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heran-hailemariam/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/heran-hailemariam/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/heran-hailemariam/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Hash Table
 |  |
 | ------- |
