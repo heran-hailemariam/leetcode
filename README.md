@@ -41,6 +41,7 @@
 | [0046-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -75,6 +76,7 @@
 | [0202-happy-number](https://github.com/heran-hailemariam/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/heran-hailemariam/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/heran-hailemariam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/heran-hailemariam/leetcode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -95,6 +97,7 @@
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/heran-hailemariam/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/heran-hailemariam/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
@@ -145,6 +148,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/heran-hailemariam/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
@@ -167,4 +171,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
