@@ -111,6 +111,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/heran-hailemariam/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/heran-hailemariam/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/heran-hailemariam/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
