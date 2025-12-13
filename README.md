@@ -175,8 +175,13 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/heran-hailemariam/leetcode/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/heran-hailemariam/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
