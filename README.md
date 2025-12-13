@@ -9,6 +9,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/heran-hailemariam/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/heran-hailemariam/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/heran-hailemariam/leetcode/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +49,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/heran-hailemariam/leetcode/tree/master/0257-binary-tree-paths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +101,7 @@
 | [0168-excel-sheet-column-title](https://github.com/heran-hailemariam/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/heran-hailemariam/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/heran-hailemariam/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/heran-hailemariam/leetcode/tree/master/0257-binary-tree-paths) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## Enumeration
