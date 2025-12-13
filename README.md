@@ -60,6 +60,7 @@
 | [0202-happy-number](https://github.com/heran-hailemariam/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/heran-hailemariam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/heran-hailemariam/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/heran-hailemariam/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -115,6 +116,7 @@
 | [0242-valid-anagram](https://github.com/heran-hailemariam/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/heran-hailemariam/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/heran-hailemariam/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/heran-hailemariam/leetcode/tree/master/0389-find-the-difference) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
