@@ -77,6 +77,7 @@
 | [0258-add-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/heran-hailemariam/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/heran-hailemariam/leetcode/tree/master/0342-power-of-four) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/heran-hailemariam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/heran-hailemariam/leetcode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -89,6 +90,7 @@
 | [0203-remove-linked-list-elements](https://github.com/heran-hailemariam/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/heran-hailemariam/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/heran-hailemariam/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/heran-hailemariam/leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/heran-hailemariam/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/heran-hailemariam/leetcode/tree/master/0389-find-the-difference) |
 ## Interactive
 |  |
