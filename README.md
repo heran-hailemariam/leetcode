@@ -97,6 +97,7 @@
 | [0412-fizz-buzz](https://github.com/heran-hailemariam/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/heran-hailemariam/leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0492-construct-the-rectangle) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/heran-hailemariam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/heran-hailemariam/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
