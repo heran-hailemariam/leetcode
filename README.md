@@ -53,6 +53,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/heran-hailemariam/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/heran-hailemariam/leetcode/tree/master/0500-keyboard-row) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -128,6 +129,7 @@
 | [0409-longest-palindrome](https://github.com/heran-hailemariam/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/heran-hailemariam/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/heran-hailemariam/leetcode/tree/master/0500-keyboard-row) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
@@ -147,6 +149,7 @@
 | [0412-fizz-buzz](https://github.com/heran-hailemariam/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/heran-hailemariam/leetcode/tree/master/0500-keyboard-row) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
