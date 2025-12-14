@@ -12,6 +12,7 @@
 | [0257-binary-tree-paths](https://github.com/heran-hailemariam/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/heran-hailemariam/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0404-sum-of-left-leaves](https://github.com/heran-hailemariam/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/heran-hailemariam/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
+| [0617-merge-two-binary-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -43,6 +46,7 @@
 | [0257-binary-tree-paths](https://github.com/heran-hailemariam/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/heran-hailemariam/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Array
 |  |
 | ------- |
