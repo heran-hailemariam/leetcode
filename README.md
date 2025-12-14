@@ -52,6 +52,7 @@
 | ------- |
 | [0046-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/heran-hailemariam/leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/heran-hailemariam/leetcode/tree/master/0401-binary-watch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/heran-hailemariam/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/heran-hailemariam/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/heran-hailemariam/leetcode/tree/master/0401-binary-watch) |
 ## Interactive
 |  |
 | ------- |
