@@ -71,6 +71,7 @@
 | [0500-keyboard-row](https://github.com/heran-hailemariam/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/heran-hailemariam/leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/heran-hailemariam/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/heran-hailemariam/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -269,6 +270,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/heran-hailemariam/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/heran-hailemariam/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/heran-hailemariam/leetcode/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/heran-hailemariam/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
