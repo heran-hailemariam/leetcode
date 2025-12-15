@@ -137,6 +137,7 @@
 | [0258-add-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/heran-hailemariam/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/heran-hailemariam/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/heran-hailemariam/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/heran-hailemariam/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/heran-hailemariam/leetcode/tree/master/0412-fizz-buzz) |
@@ -222,6 +223,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/heran-hailemariam/leetcode/tree/master/0292-nim-game) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
@@ -347,4 +349,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/heran-hailemariam/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
