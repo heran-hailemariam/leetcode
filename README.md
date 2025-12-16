@@ -91,6 +91,7 @@
 | [0804-unique-morse-code-words](https://github.com/heran-hailemariam/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/heran-hailemariam/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/heran-hailemariam/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -254,6 +255,7 @@
 | [0258-add-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/heran-hailemariam/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 ## Prefix Sum
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
+| [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
