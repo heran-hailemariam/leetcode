@@ -103,6 +103,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/heran-hailemariam/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/heran-hailemariam/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/heran-hailemariam/leetcode/tree/master/0908-smallest-range-i) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -170,6 +171,7 @@
 | [0728-self-dividing-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/heran-hailemariam/leetcode/tree/master/0908-smallest-range-i) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/heran-hailemariam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/heran-hailemariam/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
