@@ -20,6 +20,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -38,6 +39,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
@@ -71,6 +73,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -262,6 +265,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/heran-hailemariam/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/heran-hailemariam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/heran-hailemariam/leetcode/tree/master/0496-next-greater-element-i) |
+| [0897-increasing-order-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -369,6 +373,7 @@
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
