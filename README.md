@@ -111,6 +111,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/heran-hailemariam/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/heran-hailemariam/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/heran-hailemariam/leetcode/tree/master/0997-find-the-town-judge) |
+| [0999-available-captures-for-rook](https://github.com/heran-hailemariam/leetcode/tree/master/0999-available-captures-for-rook) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -288,6 +289,7 @@
 | [0412-fizz-buzz](https://github.com/heran-hailemariam/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/heran-hailemariam/leetcode/tree/master/0999-available-captures-for-rook) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 ## Prefix Sum
@@ -380,6 +382,7 @@
 | [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0999-available-captures-for-rook](https://github.com/heran-hailemariam/leetcode/tree/master/0999-available-captures-for-rook) |
 ## Monotonic Stack
 |  |
 | ------- |
