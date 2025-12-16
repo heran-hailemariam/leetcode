@@ -19,6 +19,7 @@
 | [0617-merge-two-binary-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0872-leaf-similar-trees) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -36,6 +37,7 @@
 | [0617-merge-two-binary-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0872-leaf-similar-trees) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
@@ -68,6 +70,7 @@
 | [0617-merge-two-binary-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Array
 |  |
 | ------- |
