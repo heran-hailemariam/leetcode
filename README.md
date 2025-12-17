@@ -113,6 +113,7 @@
 | [0997-find-the-town-judge](https://github.com/heran-hailemariam/leetcode/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/heran-hailemariam/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1002-find-common-characters) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/heran-hailemariam/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -325,6 +326,7 @@
 | [0888-fair-candy-swap](https://github.com/heran-hailemariam/leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/heran-hailemariam/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/heran-hailemariam/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/heran-hailemariam/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
@@ -380,6 +382,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/heran-hailemariam/leetcode/tree/master/0409-longest-palindrome) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/heran-hailemariam/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Matrix
 |  |
 | ------- |
