@@ -122,6 +122,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/heran-hailemariam/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/heran-hailemariam/leetcode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/heran-hailemariam/leetcode/tree/master/1046-last-stone-weight) |
+| [1389-create-target-array-in-the-given-order](https://github.com/heran-hailemariam/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -311,6 +312,7 @@
 | [0415-add-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/heran-hailemariam/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1389-create-target-array-in-the-given-order](https://github.com/heran-hailemariam/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 ## Prefix Sum
