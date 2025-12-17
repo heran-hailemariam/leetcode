@@ -101,6 +101,7 @@
 | [0496-next-greater-element-i](https://github.com/heran-hailemariam/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/heran-hailemariam/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/heran-hailemariam/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/heran-hailemariam/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/heran-hailemariam/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/heran-hailemariam/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -354,6 +355,7 @@
 | [0389-find-the-difference](https://github.com/heran-hailemariam/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/heran-hailemariam/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/heran-hailemariam/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/heran-hailemariam/leetcode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/heran-hailemariam/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/heran-hailemariam/leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/heran-hailemariam/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -419,6 +421,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/heran-hailemariam/leetcode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/heran-hailemariam/leetcode/tree/master/0561-array-partition) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/heran-hailemariam/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/heran-hailemariam/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -474,4 +477,8 @@
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1408-string-matching-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/heran-hailemariam/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
