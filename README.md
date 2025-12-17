@@ -261,6 +261,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/heran-hailemariam/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/heran-hailemariam/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/heran-hailemariam/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
@@ -288,6 +289,7 @@
 | [0234-palindrome-linked-list](https://github.com/heran-hailemariam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/heran-hailemariam/leetcode/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/heran-hailemariam/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
