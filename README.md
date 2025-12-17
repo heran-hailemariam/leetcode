@@ -115,6 +115,7 @@
 | [1002-find-common-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/heran-hailemariam/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/heran-hailemariam/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -375,6 +376,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/heran-hailemariam/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0868-binary-gap](https://github.com/heran-hailemariam/leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/heran-hailemariam/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/heran-hailemariam/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Interactive
 |  |
 | ------- |
