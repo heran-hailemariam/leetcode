@@ -135,6 +135,7 @@
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/heran-hailemariam/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/heran-hailemariam/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -370,6 +371,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/heran-hailemariam/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/heran-hailemariam/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/heran-hailemariam/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1710-maximum-units-on-a-truck](https://github.com/heran-hailemariam/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
@@ -432,6 +434,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/heran-hailemariam/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/heran-hailemariam/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1710-maximum-units-on-a-truck](https://github.com/heran-hailemariam/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Matrix
 |  |
 | ------- |
