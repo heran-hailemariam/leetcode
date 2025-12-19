@@ -297,6 +297,7 @@
 | [1408-string-matching-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/heran-hailemariam/leetcode/tree/master/1417-reformat-the-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1592-rearrange-spaces-between-words](https://github.com/heran-hailemariam/leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
