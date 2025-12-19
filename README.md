@@ -142,6 +142,7 @@
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/heran-hailemariam/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/heran-hailemariam/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1711-count-good-meals](https://github.com/heran-hailemariam/leetcode/tree/master/1711-count-good-meals) |
+| [1720-decode-xored-array](https://github.com/heran-hailemariam/leetcode/tree/master/1720-decode-xored-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -438,6 +439,7 @@
 | [0868-binary-gap](https://github.com/heran-hailemariam/leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/heran-hailemariam/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/heran-hailemariam/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1720-decode-xored-array](https://github.com/heran-hailemariam/leetcode/tree/master/1720-decode-xored-array) |
 ## Interactive
 |  |
 | ------- |
