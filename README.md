@@ -274,6 +274,7 @@
 | [1711-count-good-meals](https://github.com/heran-hailemariam/leetcode/tree/master/1711-count-good-meals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/heran-hailemariam/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/heran-hailemariam/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1763-longest-nice-substring](https://github.com/heran-hailemariam/leetcode/tree/master/1763-longest-nice-substring) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
@@ -316,6 +317,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/heran-hailemariam/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/heran-hailemariam/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1763-longest-nice-substring](https://github.com/heran-hailemariam/leetcode/tree/master/1763-longest-nice-substring) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
@@ -408,6 +410,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/heran-hailemariam/leetcode/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -454,6 +457,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/heran-hailemariam/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/heran-hailemariam/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1720-decode-xored-array](https://github.com/heran-hailemariam/leetcode/tree/master/1720-decode-xored-array) |
+| [1763-longest-nice-substring](https://github.com/heran-hailemariam/leetcode/tree/master/1763-longest-nice-substring) |
 ## Interactive
 |  |
 | ------- |
@@ -504,6 +508,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1763-longest-nice-substring](https://github.com/heran-hailemariam/leetcode/tree/master/1763-longest-nice-substring) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/heran-hailemariam/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Game Theory
 |  |
