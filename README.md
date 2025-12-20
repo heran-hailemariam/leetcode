@@ -224,6 +224,7 @@
 | [1399-count-largest-group](https://github.com/heran-hailemariam/leetcode/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/heran-hailemariam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/heran-hailemariam/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/heran-hailemariam/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1925-count-square-sum-triples](https://github.com/heran-hailemariam/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -269,6 +270,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/heran-hailemariam/leetcode/tree/master/1399-count-largest-group) |
 | [1711-count-good-meals](https://github.com/heran-hailemariam/leetcode/tree/master/1711-count-good-meals) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/heran-hailemariam/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
@@ -410,6 +412,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/heran-hailemariam/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/heran-hailemariam/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Design
 |  |
 | ------- |
