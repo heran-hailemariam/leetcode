@@ -315,6 +315,7 @@
 | [1598-crawler-log-folder](https://github.com/heran-hailemariam/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/heran-hailemariam/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/heran-hailemariam/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
