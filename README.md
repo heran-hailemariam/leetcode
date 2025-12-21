@@ -159,6 +159,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/heran-hailemariam/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/heran-hailemariam/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -290,6 +291,7 @@
 | [1763-longest-nice-substring](https://github.com/heran-hailemariam/leetcode/tree/master/1763-longest-nice-substring) |
 | [1995-count-special-quadruplets](https://github.com/heran-hailemariam/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/heran-hailemariam/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
@@ -515,6 +517,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/heran-hailemariam/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
