@@ -157,6 +157,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/heran-hailemariam/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/heran-hailemariam/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/heran-hailemariam/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/heran-hailemariam/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -383,6 +384,7 @@
 | [0999-available-captures-for-rook](https://github.com/heran-hailemariam/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1389-create-target-array-in-the-given-order](https://github.com/heran-hailemariam/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/heran-hailemariam/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/heran-hailemariam/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 ## Prefix Sum
@@ -512,6 +514,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/heran-hailemariam/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1572-matrix-diagonal-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/heran-hailemariam/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Monotonic Stack
 |  |
 | ------- |
