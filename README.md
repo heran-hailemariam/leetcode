@@ -115,6 +115,7 @@
 | [0804-unique-morse-code-words](https://github.com/heran-hailemariam/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/heran-hailemariam/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/heran-hailemariam/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0840-magic-squares-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/heran-hailemariam/leetcode/tree/master/0888-fair-candy-swap) |
@@ -236,6 +237,7 @@
 | [0507-perfect-number](https://github.com/heran-hailemariam/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/heran-hailemariam/leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0840-magic-squares-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0883-projection-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/heran-hailemariam/leetcode/tree/master/0908-smallest-range-i) |
@@ -286,6 +288,7 @@
 | [0500-keyboard-row](https://github.com/heran-hailemariam/leetcode/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0804-unique-morse-code-words](https://github.com/heran-hailemariam/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0840-magic-squares-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/heran-hailemariam/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/heran-hailemariam/leetcode/tree/master/0888-fair-candy-swap) |
 | [0997-find-the-town-judge](https://github.com/heran-hailemariam/leetcode/tree/master/0997-find-the-town-judge) |
@@ -523,6 +526,7 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
