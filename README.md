@@ -137,6 +137,7 @@
 | [1037-valid-boomerang](https://github.com/heran-hailemariam/leetcode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/heran-hailemariam/leetcode/tree/master/1046-last-stone-weight) |
 | [1110-delete-nodes-and-return-forest](https://github.com/heran-hailemariam/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/heran-hailemariam/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1389-create-target-array-in-the-given-order](https://github.com/heran-hailemariam/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -295,6 +296,7 @@
 | [0997-find-the-town-judge](https://github.com/heran-hailemariam/leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1002-find-common-characters) |
 | [1110-delete-nodes-and-return-forest](https://github.com/heran-hailemariam/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/heran-hailemariam/leetcode/tree/master/1399-count-largest-group) |
 | [1711-count-good-meals](https://github.com/heran-hailemariam/leetcode/tree/master/1711-count-good-meals) |
@@ -341,6 +343,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/heran-hailemariam/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/heran-hailemariam/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/heran-hailemariam/leetcode/tree/master/1154-day-of-the-year) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/heran-hailemariam/leetcode/tree/master/1417-reformat-the-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -464,6 +467,7 @@
 | [0383-ransom-note](https://github.com/heran-hailemariam/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/heran-hailemariam/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/heran-hailemariam/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/heran-hailemariam/leetcode/tree/master/1748-sum-of-unique-elements) |
