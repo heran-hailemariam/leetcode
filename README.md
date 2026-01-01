@@ -336,6 +336,7 @@
 | [0412-fizz-buzz](https://github.com/heran-hailemariam/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/heran-hailemariam/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/heran-hailemariam/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/heran-hailemariam/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/heran-hailemariam/leetcode/tree/master/0520-detect-capital) |
@@ -599,6 +600,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/heran-hailemariam/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1408-string-matching-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Counting Sort
