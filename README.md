@@ -141,6 +141,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1184-distance-between-bus-stops](https://github.com/heran-hailemariam/leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/heran-hailemariam/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/heran-hailemariam/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1389-create-target-array-in-the-given-order](https://github.com/heran-hailemariam/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/heran-hailemariam/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -251,6 +252,7 @@
 | [1037-valid-boomerang](https://github.com/heran-hailemariam/leetcode/tree/master/1037-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/heran-hailemariam/leetcode/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/heran-hailemariam/leetcode/tree/master/1175-prime-arrangements) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/heran-hailemariam/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1399-count-largest-group](https://github.com/heran-hailemariam/leetcode/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/heran-hailemariam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/heran-hailemariam/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -527,6 +529,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/heran-hailemariam/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/heran-hailemariam/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/heran-hailemariam/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/heran-hailemariam/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/heran-hailemariam/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
