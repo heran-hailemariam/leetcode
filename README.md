@@ -95,6 +95,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/heran-hailemariam/leetcode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/heran-hailemariam/leetcode/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
@@ -221,6 +222,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/heran-hailemariam/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/heran-hailemariam/leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/heran-hailemariam/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/heran-hailemariam/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/heran-hailemariam/leetcode/tree/master/0202-happy-number) |
