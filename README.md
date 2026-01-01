@@ -249,6 +249,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/heran-hailemariam/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/heran-hailemariam/leetcode/tree/master/1037-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/heran-hailemariam/leetcode/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/heran-hailemariam/leetcode/tree/master/1175-prime-arrangements) |
 | [1399-count-largest-group](https://github.com/heran-hailemariam/leetcode/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/heran-hailemariam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/heran-hailemariam/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
