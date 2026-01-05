@@ -176,6 +176,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2347-best-poker-hand](https://github.com/heran-hailemariam/leetcode/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -323,6 +324,7 @@
 | [2347-best-poker-hand](https://github.com/heran-hailemariam/leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/heran-hailemariam/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2352-equal-row-and-column-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## String
@@ -378,6 +380,7 @@
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2351-first-letter-to-appear-twice](https://github.com/heran-hailemariam/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## Enumeration
 |  |
@@ -501,6 +504,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/heran-hailemariam/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -588,6 +592,7 @@
 | ------- |
 | [0506-relative-ranks](https://github.com/heran-hailemariam/leetcode/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/heran-hailemariam/leetcode/tree/master/1046-last-stone-weight) |
+| [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Memoization
 |  |
@@ -631,4 +636,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
