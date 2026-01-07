@@ -144,6 +144,7 @@
 | [1046-last-stone-weight](https://github.com/heran-hailemariam/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/heran-hailemariam/leetcode/tree/master/1051-height-checker) |
 | [1110-delete-nodes-and-return-forest](https://github.com/heran-hailemariam/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1122-relative-sort-array](https://github.com/heran-hailemariam/leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1184-distance-between-bus-stops](https://github.com/heran-hailemariam/leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/heran-hailemariam/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -317,6 +318,7 @@
 | [0997-find-the-town-judge](https://github.com/heran-hailemariam/leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1002-find-common-characters) |
 | [1110-delete-nodes-and-return-forest](https://github.com/heran-hailemariam/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1122-relative-sort-array](https://github.com/heran-hailemariam/leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/heran-hailemariam/leetcode/tree/master/1399-count-largest-group) |
@@ -477,6 +479,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/heran-hailemariam/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/heran-hailemariam/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/heran-hailemariam/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/heran-hailemariam/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/heran-hailemariam/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/heran-hailemariam/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/heran-hailemariam/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -642,6 +645,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/heran-hailemariam/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/heran-hailemariam/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/heran-hailemariam/leetcode/tree/master/1122-relative-sort-array) |
 ## Hash Function
 |  |
 | ------- |
