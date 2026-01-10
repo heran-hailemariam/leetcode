@@ -367,6 +367,7 @@
 | [0520-detect-capital](https://github.com/heran-hailemariam/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/heran-hailemariam/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0709-to-lower-case](https://github.com/heran-hailemariam/leetcode/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0804-unique-morse-code-words](https://github.com/heran-hailemariam/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/heran-hailemariam/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/heran-hailemariam/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -461,6 +462,7 @@
 | [0118-pascals-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/heran-hailemariam/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/heran-hailemariam/leetcode/tree/master/0509-fibonacci-number) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/heran-hailemariam/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
