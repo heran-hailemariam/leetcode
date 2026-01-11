@@ -100,6 +100,7 @@
 | [0031-next-permutation](https://github.com/heran-hailemariam/leetcode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/heran-hailemariam/leetcode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
@@ -418,6 +419,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/heran-hailemariam/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/heran-hailemariam/leetcode/tree/master/0143-reorder-list) |
@@ -460,6 +462,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/heran-hailemariam/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/heran-hailemariam/leetcode/tree/master/0509-fibonacci-number) |
@@ -588,6 +591,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -605,6 +609,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/heran-hailemariam/leetcode/tree/master/0496-next-greater-element-i) |
 ## Binary Search Tree
 |  |
