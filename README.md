@@ -155,6 +155,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/heran-hailemariam/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/heran-hailemariam/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heran-hailemariam/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/heran-hailemariam/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1310-xor-queries-of-a-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1389-create-target-array-in-the-given-order](https://github.com/heran-hailemariam/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -471,6 +472,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heran-hailemariam/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1732-find-the-highest-altitude](https://github.com/heran-hailemariam/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -572,6 +574,7 @@
 | [0441-arranging-coins](https://github.com/heran-hailemariam/leetcode/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/heran-hailemariam/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/heran-hailemariam/leetcode/tree/master/0888-fair-candy-swap) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heran-hailemariam/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/heran-hailemariam/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3453-separate-squares-i](https://github.com/heran-hailemariam/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3454-separate-squares-ii) |
@@ -624,6 +627,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/heran-hailemariam/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1030-matrix-cells-in-distance-order](https://github.com/heran-hailemariam/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heran-hailemariam/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1504-count-submatrices-with-all-ones](https://github.com/heran-hailemariam/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
