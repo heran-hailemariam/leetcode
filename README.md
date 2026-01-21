@@ -112,6 +112,7 @@
 | [0455-assign-cookies](https://github.com/heran-hailemariam/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/heran-hailemariam/leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/heran-hailemariam/leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/heran-hailemariam/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/heran-hailemariam/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/heran-hailemariam/leetcode/tree/master/0561-array-partition) |
@@ -461,6 +462,7 @@
 | [0258-add-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/heran-hailemariam/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/heran-hailemariam/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/heran-hailemariam/leetcode/tree/master/0999-available-captures-for-rook) |
@@ -626,6 +628,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/heran-hailemariam/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
