@@ -199,6 +199,7 @@
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/heran-hailemariam/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heran-hailemariam/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/heran-hailemariam/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
