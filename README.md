@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/heran-hailemariam/leetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/heran-hailemariam/leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/heran-hailemariam/leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
@@ -330,6 +331,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/heran-hailemariam/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/heran-hailemariam/leetcode/tree/master/0036-valid-sudoku) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heran-hailemariam/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -644,6 +646,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/heran-hailemariam/leetcode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/heran-hailemariam/leetcode/tree/master/0498-diagonal-traverse) |
