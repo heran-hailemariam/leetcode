@@ -183,6 +183,7 @@
 | [1748-sum-of-unique-elements](https://github.com/heran-hailemariam/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/heran-hailemariam/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/heran-hailemariam/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1792-maximum-average-pass-ratio](https://github.com/heran-hailemariam/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/heran-hailemariam/leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -645,6 +646,7 @@
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/heran-hailemariam/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/heran-hailemariam/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/heran-hailemariam/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1792-maximum-average-pass-ratio](https://github.com/heran-hailemariam/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -693,6 +695,7 @@
 | ------- |
 | [0506-relative-ranks](https://github.com/heran-hailemariam/leetcode/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/heran-hailemariam/leetcode/tree/master/1046-last-stone-weight) |
+| [1792-maximum-average-pass-ratio](https://github.com/heran-hailemariam/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
