@@ -1,58 +1,29 @@
-#define FORCE_INLINE inline __attribute__((always_inline))
-#define HOT_PATH __attribute__((hot))
-
-class Solution
-{
+class Solution {
 public:
-    using Index = uint8_t;   // [0; 50)
-    using Coord = int32_t;   // [0;50]
-    using Result = uint8_t;  // < 50x50 ?
+    static bool cmp(vector<int>& p, vector<int>& q){
+        return (p[0]==q[0])?p[1]<q[1]:p[0]>q[0];// order by (x, >)
+    }
 
-    struct Point
-    {
-        Coord x, y;
-
-        [[nodiscard]] FORCE_INLINE HOT_PATH constexpr bool operator<(
-            const Point& r) const noexcept
-        {
-            return (x < r.x) || (x == r.x && y > r.y);
-        }
-    };
-
-    [[nodiscard]] static constexpr Result numberOfPairs(
-        const std::vector<std::vector<int>>& in) noexcept
-    {
-        std::array<Point, 1000> points;  // NOLINT
-        Index n = 0;
-        for (auto& p : in)
-        {
-            points[n++] = {
-                .x = static_cast<Coord>(p[0]),
-                .y = static_cast<Coord>(p[1]),
-            };
-        }
-
-        std::ranges::sort(
-            points.begin(),
-            std::next(points.begin(), n),
-            std::less{});
-
-        Result r = 0;
-
-        for (Index i = 0; i != n; ++i)
-        {
-            auto& a = points[i];
-            Coord min_y = std::numeric_limits<Coord>::lowest();
-            for (Index j = i + 1; j != n && min_y <= a.y; ++j)
-            {
-                if (auto& b = points[j]; b.y <= a.y && b.y >= min_y)
-                {
-                    ++r;
-                    min_y = b.y + 1;
+    int numberOfPairs(vector<vector<int>>& P) {
+        sort(P.begin(), P.end(), cmp);
+        int n = P.size(), ans = 0;
+        for(int i=0; i<n-1; i++){
+            int y=INT_MAX;
+            for(int j = i+1; j<n; j++){
+                if (P[j][1]>=P[i][1] && y>P[j][1]){
+                    ans++;
+                    y=P[j][1];
                 }
             }
         }
-
-        return r;
+        return ans;
     }
 };
+
+auto init = []()
+{ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
