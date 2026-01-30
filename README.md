@@ -326,6 +326,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heran-hailemariam/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3516-find-closest-person](https://github.com/heran-hailemariam/leetcode/tree/master/3516-find-closest-person) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Recursion
 |  |
