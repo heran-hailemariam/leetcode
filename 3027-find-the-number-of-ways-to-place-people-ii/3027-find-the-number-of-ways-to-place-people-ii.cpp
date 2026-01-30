@@ -1,30 +1,25 @@
 class Solution {
 public:
-    static bool cmp(const vector<int>& p, const vector<int>& q){
-        return (p[0]==q[0])?p[1]<q[1]:p[0]>q[0];// order by (x, >)
-    }
-    static int numberOfPairs(vector<vector<int>>& P) {
-        sort(P.begin(), P.end(), cmp);
-        int n = P.size(), ans = 0;
-        for(int i=0; i<n-1; i++){
-            int y=INT_MAX, yi=P[i][1];
-            for(int j = i+1; j<n; j++){
-                const int yj=P[j][1];
-                if (yj>=yi && y>yj){//P[j] cannot be in between
-                    ans++;
-                    y=yj;
-                    if (yi==yj) break;
+    int numberOfPairs(vector<vector<int>>& nums) {
+        // Sort by x ascending, if tie then y descending
+        sort(nums.begin(), nums.end(), [](auto &a, auto &b){
+            if (a[0] == b[0]) return a[1] > b[1];
+            return a[0] < b[0];
+        });
+
+        int n = nums.size();
+        int count = 0;
+
+        for (int i = 0; i < n; i++) {
+            int maxi = INT_MIN;
+            for (int j = i + 1; j < n; j++) {
+                if(nums[j][1]>nums[i][1]) continue;
+                if(nums[j][1]>maxi){
+                    count++;
+                    maxi=nums[j][1];
                 }
             }
         }
-        return ans;
+        return count;
     }
 };
-
-auto init = []()
-{ 
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
