@@ -1,15 +1,11 @@
 class Solution {
 public:
     vector<int> sumZero(int n) {
-        vector<int> a;
-        if (n % 2 != 0) {
-            a.push_back(0);
+        vector<int> ans;int k=n/2;
+        while(k--){
+            ans.push_back(k+1);ans.push_back(-k-1);
         }
-
-        for (int i = 1; i <= n/2; i++) {
-            a.push_back(i);
-            a.push_back(-i);
-        }
-        return a;
+        if(n&1) ans.push_back(0);
+        return ans;
     }
 };
