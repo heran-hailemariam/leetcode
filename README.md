@@ -509,6 +509,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/heran-hailemariam/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/heran-hailemariam/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/heran-hailemariam/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2352-equal-row-and-column-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/heran-hailemariam/leetcode/tree/master/3379-transformed-array) |
@@ -541,6 +542,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/heran-hailemariam/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/heran-hailemariam/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/heran-hailemariam/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -615,6 +617,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/heran-hailemariam/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/heran-hailemariam/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Number Theory
 |  |
 | ------- |
