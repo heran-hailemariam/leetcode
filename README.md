@@ -69,6 +69,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/heran-hailemariam/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heran-hailemariam/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/heran-hailemariam/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1310-xor-queries-of-a-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/heran-hailemariam/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1389-create-target-array-in-the-given-order](https://github.com/heran-hailemariam/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/heran-hailemariam/leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -376,6 +378,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/heran-hailemariam/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/heran-hailemariam/leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/heran-hailemariam/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/heran-hailemariam/leetcode/tree/master/1399-count-largest-group) |
 | [1711-count-good-meals](https://github.com/heran-hailemariam/leetcode/tree/master/1711-count-good-meals) |
@@ -571,6 +574,7 @@
 | [1051-height-checker](https://github.com/heran-hailemariam/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/heran-hailemariam/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/heran-hailemariam/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/heran-hailemariam/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/heran-hailemariam/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/heran-hailemariam/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/heran-hailemariam/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -803,6 +807,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1311-get-watched-videos-by-your-friends](https://github.com/heran-hailemariam/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/heran-hailemariam/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/heran-hailemariam/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
