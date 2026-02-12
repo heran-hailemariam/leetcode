@@ -409,6 +409,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/heran-hailemariam/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
@@ -475,6 +476,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/heran-hailemariam/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -484,6 +486,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/heran-hailemariam/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heran-hailemariam/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/heran-hailemariam/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -635,6 +638,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/heran-hailemariam/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2347-best-poker-hand](https://github.com/heran-hailemariam/leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/heran-hailemariam/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3713-longest-balanced-substring-i](https://github.com/heran-hailemariam/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
 | ------- |
