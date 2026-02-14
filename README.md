@@ -564,6 +564,7 @@
 | [0392-is-subsequence](https://github.com/heran-hailemariam/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/heran-hailemariam/leetcode/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/heran-hailemariam/leetcode/tree/master/0799-champagne-tower) |
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/heran-hailemariam/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
