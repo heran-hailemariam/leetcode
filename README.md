@@ -630,6 +630,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/heran-hailemariam/leetcode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/heran-hailemariam/leetcode/tree/master/1763-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -686,6 +687,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/heran-hailemariam/leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/heran-hailemariam/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/heran-hailemariam/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/heran-hailemariam/leetcode/tree/master/0389-find-the-difference) |
