@@ -448,6 +448,7 @@
 | [0696-count-binary-substrings](https://github.com/heran-hailemariam/leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/heran-hailemariam/leetcode/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/0761-special-binary-string) |
 | [0804-unique-morse-code-words](https://github.com/heran-hailemariam/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/heran-hailemariam/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/heran-hailemariam/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -603,6 +604,7 @@
 | [0506-relative-ranks](https://github.com/heran-hailemariam/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/heran-hailemariam/leetcode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/heran-hailemariam/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0761-special-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/heran-hailemariam/leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/heran-hailemariam/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/heran-hailemariam/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -633,6 +635,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/heran-hailemariam/leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/heran-hailemariam/leetcode/tree/master/1763-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/3719-longest-balanced-subarray-i) |
