@@ -298,6 +298,7 @@
 | [0013-roman-to-integer](https://github.com/heran-hailemariam/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/heran-hailemariam/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/heran-hailemariam/leetcode/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/heran-hailemariam/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/heran-hailemariam/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/heran-hailemariam/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/heran-hailemariam/leetcode/tree/master/0202-happy-number) |
@@ -368,6 +369,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heran-hailemariam/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/heran-hailemariam/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/heran-hailemariam/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/heran-hailemariam/leetcode/tree/master/0242-valid-anagram) |
@@ -424,6 +426,7 @@
 | [0013-roman-to-integer](https://github.com/heran-hailemariam/leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/heran-hailemariam/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/heran-hailemariam/leetcode/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/heran-hailemariam/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/heran-hailemariam/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/heran-hailemariam/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/heran-hailemariam/leetcode/tree/master/0242-valid-anagram) |
