@@ -1,30 +1,19 @@
 class Solution {
 public:
-    int binaryGap(int n) 
-    {
-        vector<int>a;
-        while(n>0)
-        {
-            int tmp = n%2;
-            a.push_back(tmp);
-            n/=2;
-        }
-        reverse(a.begin(),a.end());
+    int binaryGap(int n) {
+        n >>= __builtin_ctz(n);
+        if (n == 1) return 0;
+        int maxGap = 0, gap = 0;
 
-        int ans = 0, size = a.size();
-        int idx = -1;
-        for(int i=0;i<size;i++)
-        {
-            if(a[i]==1)
-            {
-                if(idx == -1) idx = i;
-                else 
-                {
-                    ans = max(ans, i-idx);
-                    idx = i;
-                }
-            }
+        while (n) {
+            if (n & 1) {
+                maxGap = max(maxGap, gap);
+                gap = 0;
+            } else
+                gap++;
+            n >>= 1;
         }
-        return ans;
+
+        return maxGap + 1;
     }
 };
