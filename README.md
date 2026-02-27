@@ -74,6 +74,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/heran-hailemariam/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +359,7 @@
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3516-find-closest-person](https://github.com/heran-hailemariam/leetcode/tree/master/3516-find-closest-person) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
 | ------- |
@@ -498,6 +500,7 @@
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/heran-hailemariam/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Enumeration
@@ -871,6 +874,7 @@
 | [3408-design-task-manager](https://github.com/heran-hailemariam/leetcode/tree/master/3408-design-task-manager) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Segment Tree
 |  |
 | ------- |
@@ -903,4 +907,8 @@
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
