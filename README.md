@@ -376,6 +376,7 @@
 | [0234-palindrome-linked-list](https://github.com/heran-hailemariam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/heran-hailemariam/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/heran-hailemariam/leetcode/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -485,6 +486,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/heran-hailemariam/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/heran-hailemariam/leetcode/tree/master/1417-reformat-the-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/heran-hailemariam/leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/heran-hailemariam/leetcode/tree/master/1598-crawler-log-folder) |
@@ -566,6 +568,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/heran-hailemariam/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/heran-hailemariam/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/heran-hailemariam/leetcode/tree/master/1518-water-bottles) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/heran-hailemariam/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/heran-hailemariam/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
