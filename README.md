@@ -49,6 +49,7 @@
 | [0617-merge-two-binary-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-swim-in-rising-water](https://github.com/heran-hailemariam/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0872-leaf-similar-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -72,6 +73,7 @@
 | [0617-merge-two-binary-trees](https://github.com/heran-hailemariam/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/heran-hailemariam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-swim-in-rising-water](https://github.com/heran-hailemariam/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0993-cousins-in-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/heran-hailemariam/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -134,6 +136,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/heran-hailemariam/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/heran-hailemariam/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0778-swim-in-rising-water](https://github.com/heran-hailemariam/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0804-unique-morse-code-words](https://github.com/heran-hailemariam/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/heran-hailemariam/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/heran-hailemariam/leetcode/tree/master/0812-largest-triangle-area) |
@@ -718,6 +721,7 @@
 | [0441-arranging-coins](https://github.com/heran-hailemariam/leetcode/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/heran-hailemariam/leetcode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/heran-hailemariam/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/heran-hailemariam/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0888-fair-candy-swap](https://github.com/heran-hailemariam/leetcode/tree/master/0888-fair-candy-swap) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heran-hailemariam/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/heran-hailemariam/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -785,6 +789,7 @@
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/heran-hailemariam/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0778-swim-in-rising-water](https://github.com/heran-hailemariam/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -824,6 +829,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/heran-hailemariam/leetcode/tree/master/0506-relative-ranks) |
+| [0778-swim-in-rising-water](https://github.com/heran-hailemariam/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/heran-hailemariam/leetcode/tree/master/1046-last-stone-weight) |
 | [1792-maximum-average-pass-ratio](https://github.com/heran-hailemariam/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
@@ -929,5 +935,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/heran-hailemariam/leetcode/tree/master/0778-swim-in-rising-water) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
