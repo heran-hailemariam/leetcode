@@ -501,6 +501,7 @@
 | [1763-longest-nice-substring](https://github.com/heran-hailemariam/leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/heran-hailemariam/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/heran-hailemariam/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/heran-hailemariam/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2000-reverse-prefix-of-word](https://github.com/heran-hailemariam/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/heran-hailemariam/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
