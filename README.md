@@ -244,6 +244,7 @@
 | [3454-separate-squares-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3454-separate-squares-ii) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/heran-hailemariam/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/heran-hailemariam/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -584,6 +585,7 @@
 | [3100-water-bottles-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3100-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/heran-hailemariam/leetcode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/heran-hailemariam/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Prefix Sum
@@ -596,6 +598,7 @@
 | [1895-largest-magic-square](https://github.com/heran-hailemariam/leetcode/tree/master/1895-largest-magic-square) |
 | [1991-find-the-middle-index-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/heran-hailemariam/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/heran-hailemariam/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/3719-longest-balanced-subarray-i) |
