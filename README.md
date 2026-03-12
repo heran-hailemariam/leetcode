@@ -237,6 +237,7 @@
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/heran-hailemariam/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/heran-hailemariam/leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3379-transformed-array](https://github.com/heran-hailemariam/leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
