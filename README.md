@@ -235,6 +235,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heran-hailemariam/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/heran-hailemariam/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/heran-hailemariam/leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
@@ -368,6 +369,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heran-hailemariam/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3100-water-bottles-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3100-water-bottles-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3516-find-closest-person](https://github.com/heran-hailemariam/leetcode/tree/master/3516-find-closest-person) |
@@ -738,6 +740,7 @@
 | [0888-fair-candy-swap](https://github.com/heran-hailemariam/leetcode/tree/master/0888-fair-candy-swap) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heran-hailemariam/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/heran-hailemariam/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/heran-hailemariam/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/heran-hailemariam/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -793,6 +796,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/heran-hailemariam/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
@@ -850,6 +854,7 @@
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3408-design-task-manager](https://github.com/heran-hailemariam/leetcode/tree/master/3408-design-task-manager) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
