@@ -357,6 +357,7 @@
 | [1399-count-largest-group](https://github.com/heran-hailemariam/leetcode/tree/master/1399-count-largest-group) |
 | [1518-water-bottles](https://github.com/heran-hailemariam/leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/heran-hailemariam/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/heran-hailemariam/leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/heran-hailemariam/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/heran-hailemariam/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -714,6 +715,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/heran-hailemariam/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1622-fancy-sequence](https://github.com/heran-hailemariam/leetcode/tree/master/1622-fancy-sequence) |
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/heran-hailemariam/leetcode/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
@@ -926,6 +928,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/heran-hailemariam/leetcode/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
