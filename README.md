@@ -238,6 +238,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/heran-hailemariam/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/heran-hailemariam/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/heran-hailemariam/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -614,6 +615,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/heran-hailemariam/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/heran-hailemariam/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/heran-hailemariam/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/heran-hailemariam/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -842,6 +844,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/heran-hailemariam/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/heran-hailemariam/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/heran-hailemariam/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3446-sort-matrix-by-diagonals](https://github.com/heran-hailemariam/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/heran-hailemariam/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
