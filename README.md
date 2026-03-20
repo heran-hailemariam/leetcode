@@ -255,6 +255,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/heran-hailemariam/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/heran-hailemariam/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
@@ -692,6 +693,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3446-sort-matrix-by-diagonals](https://github.com/heran-hailemariam/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/heran-hailemariam/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
@@ -848,6 +850,7 @@
 | [3446-sort-matrix-by-diagonals](https://github.com/heran-hailemariam/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/heran-hailemariam/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/heran-hailemariam/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/heran-hailemariam/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
 |  |
