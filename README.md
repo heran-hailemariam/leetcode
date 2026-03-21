@@ -261,6 +261,7 @@
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/heran-hailemariam/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/heran-hailemariam/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/heran-hailemariam/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -300,6 +301,7 @@
 | [1768-merge-strings-alternately](https://github.com/heran-hailemariam/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/heran-hailemariam/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3643-flip-square-submatrix-vertically](https://github.com/heran-hailemariam/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Linked List
 |  |
 | ------- |
@@ -851,6 +853,7 @@
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/heran-hailemariam/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/heran-hailemariam/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/heran-hailemariam/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/heran-hailemariam/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
 |  |
