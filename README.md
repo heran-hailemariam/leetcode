@@ -193,6 +193,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1598-crawler-log-folder](https://github.com/heran-hailemariam/leetcode/tree/master/1598-crawler-log-folder) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/heran-hailemariam/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/heran-hailemariam/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -642,6 +643,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/heran-hailemariam/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/heran-hailemariam/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/heran-hailemariam/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/heran-hailemariam/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/heran-hailemariam/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -840,6 +842,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/heran-hailemariam/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/heran-hailemariam/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
