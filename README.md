@@ -227,6 +227,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2906-construct-product-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/heran-hailemariam/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/heran-hailemariam/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -618,6 +619,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/heran-hailemariam/leetcode/tree/master/1895-largest-magic-square) |
 | [1991-find-the-middle-index-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2906-construct-product-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/heran-hailemariam/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/heran-hailemariam/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -851,6 +853,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/heran-hailemariam/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2352-equal-row-and-column-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2906-construct-product-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/heran-hailemariam/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/heran-hailemariam/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/heran-hailemariam/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
