@@ -541,6 +541,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/heran-hailemariam/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2573-find-the-string-with-lcp](https://github.com/heran-hailemariam/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/heran-hailemariam/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/heran-hailemariam/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
