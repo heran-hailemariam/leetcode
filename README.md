@@ -456,6 +456,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/heran-hailemariam/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3408-design-task-manager](https://github.com/heran-hailemariam/leetcode/tree/master/3408-design-task-manager) |
@@ -542,6 +543,7 @@
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2573-find-the-string-with-lcp](https://github.com/heran-hailemariam/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/heran-hailemariam/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/heran-hailemariam/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
@@ -710,6 +712,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/heran-hailemariam/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/heran-hailemariam/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heran-hailemariam/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
