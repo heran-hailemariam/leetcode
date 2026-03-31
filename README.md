@@ -547,6 +547,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/heran-hailemariam/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/heran-hailemariam/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -842,6 +843,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/heran-hailemariam/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/heran-hailemariam/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/heran-hailemariam/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
@@ -963,6 +965,7 @@
 | [0459-repeated-substring-pattern](https://github.com/heran-hailemariam/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1408-string-matching-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/heran-hailemariam/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Counting Sort
 |  |
 | ------- |
