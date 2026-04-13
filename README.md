@@ -208,6 +208,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/heran-hailemariam/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/heran-hailemariam/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1792-maximum-average-pass-ratio](https://github.com/heran-hailemariam/leetcode/tree/master/1792-maximum-average-pass-ratio) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/heran-hailemariam/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/heran-hailemariam/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
