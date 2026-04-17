@@ -286,6 +286,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/heran-hailemariam/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -408,6 +409,7 @@
 | [3516-find-closest-person](https://github.com/heran-hailemariam/leetcode/tree/master/3516-find-closest-person) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -486,6 +488,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/heran-hailemariam/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
