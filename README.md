@@ -57,6 +57,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/heran-hailemariam/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/heran-hailemariam/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/heran-hailemariam/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
@@ -201,6 +202,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/heran-hailemariam/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1711-count-good-meals](https://github.com/heran-hailemariam/leetcode/tree/master/1711-count-good-meals) |
 | [1720-decode-xored-array](https://github.com/heran-hailemariam/leetcode/tree/master/1720-decode-xored-array) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/heran-hailemariam/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/heran-hailemariam/leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/heran-hailemariam/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/heran-hailemariam/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -1067,6 +1069,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/heran-hailemariam/leetcode/tree/master/0778-swim-in-rising-water) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/heran-hailemariam/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/heran-hailemariam/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/heran-hailemariam/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
