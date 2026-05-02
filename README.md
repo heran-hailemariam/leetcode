@@ -381,6 +381,7 @@
 | [0509-fibonacci-number](https://github.com/heran-hailemariam/leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/heran-hailemariam/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/heran-hailemariam/leetcode/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0883-projection-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -713,6 +714,7 @@
 | [0396-rotate-function](https://github.com/heran-hailemariam/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/heran-hailemariam/leetcode/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/heran-hailemariam/leetcode/tree/master/0799-champagne-tower) |
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/heran-hailemariam/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
