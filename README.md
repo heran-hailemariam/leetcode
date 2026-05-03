@@ -543,6 +543,7 @@
 | [0709-to-lower-case](https://github.com/heran-hailemariam/leetcode/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/heran-hailemariam/leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/heran-hailemariam/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/heran-hailemariam/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/heran-hailemariam/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -1042,6 +1043,7 @@
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/heran-hailemariam/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/heran-hailemariam/leetcode/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/heran-hailemariam/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Counting Sort
