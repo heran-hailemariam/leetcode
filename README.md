@@ -117,6 +117,7 @@
 | [0036-valid-sudoku](https://github.com/heran-hailemariam/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/heran-hailemariam/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/heran-hailemariam/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/heran-hailemariam/leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/heran-hailemariam/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -359,6 +360,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/heran-hailemariam/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/heran-hailemariam/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/heran-hailemariam/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/heran-hailemariam/leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/heran-hailemariam/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -923,6 +925,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/heran-hailemariam/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/heran-hailemariam/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/heran-hailemariam/leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/heran-hailemariam/leetcode/tree/master/0463-island-perimeter) |
