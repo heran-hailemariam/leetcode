@@ -208,6 +208,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/heran-hailemariam/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/heran-hailemariam/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/heran-hailemariam/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/heran-hailemariam/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1710-maximum-units-on-a-truck](https://github.com/heran-hailemariam/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1711-count-good-meals](https://github.com/heran-hailemariam/leetcode/tree/master/1711-count-good-meals) |
 | [1720-decode-xored-array](https://github.com/heran-hailemariam/leetcode/tree/master/1720-decode-xored-array) |
@@ -485,6 +486,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/heran-hailemariam/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/heran-hailemariam/leetcode/tree/master/1399-count-largest-group) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/heran-hailemariam/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1711-count-good-meals](https://github.com/heran-hailemariam/leetcode/tree/master/1711-count-good-meals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/heran-hailemariam/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/heran-hailemariam/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -694,6 +696,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heran-hailemariam/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/heran-hailemariam/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/heran-hailemariam/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/heran-hailemariam/leetcode/tree/master/1895-largest-magic-square) |
