@@ -124,6 +124,7 @@
 | [0118-pascals-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heran-hailemariam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/heran-hailemariam/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/heran-hailemariam/leetcode/tree/master/0283-move-zeroes) |
@@ -861,6 +862,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heran-hailemariam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/heran-hailemariam/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/heran-hailemariam/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/heran-hailemariam/leetcode/tree/master/0349-intersection-of-two-arrays) |
