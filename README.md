@@ -251,6 +251,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/heran-hailemariam/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/heran-hailemariam/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2536-increment-submatrices-by-one](https://github.com/heran-hailemariam/leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2540-minimum-common-value](https://github.com/heran-hailemariam/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/heran-hailemariam/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/heran-hailemariam/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/heran-hailemariam/leetcode/tree/master/2615-sum-of-distances) |
@@ -347,6 +348,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/heran-hailemariam/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/heran-hailemariam/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2540-minimum-common-value](https://github.com/heran-hailemariam/leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/heran-hailemariam/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Linked List
 |  |
@@ -503,6 +505,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2540-minimum-common-value](https://github.com/heran-hailemariam/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/heran-hailemariam/leetcode/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/heran-hailemariam/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -875,6 +878,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heran-hailemariam/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/heran-hailemariam/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/heran-hailemariam/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/heran-hailemariam/leetcode/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/heran-hailemariam/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3454-separate-squares-ii) |
