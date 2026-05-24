@@ -190,6 +190,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/heran-hailemariam/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1310-xor-queries-of-a-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/heran-hailemariam/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1340-jump-game-v](https://github.com/heran-hailemariam/leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/heran-hailemariam/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/heran-hailemariam/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/heran-hailemariam/leetcode/tree/master/1390-four-divisors) |
@@ -737,6 +738,7 @@
 | [0799-champagne-tower](https://github.com/heran-hailemariam/leetcode/tree/master/0799-champagne-tower) |
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/heran-hailemariam/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1340-jump-game-v](https://github.com/heran-hailemariam/leetcode/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/heran-hailemariam/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/heran-hailemariam/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -785,6 +787,7 @@
 | [1122-relative-sort-array](https://github.com/heran-hailemariam/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/heran-hailemariam/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/heran-hailemariam/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1340-jump-game-v](https://github.com/heran-hailemariam/leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/heran-hailemariam/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/heran-hailemariam/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/heran-hailemariam/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
