@@ -244,6 +244,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/heran-hailemariam/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/heran-hailemariam/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2347-best-poker-hand](https://github.com/heran-hailemariam/leetcode/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
@@ -800,6 +801,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/heran-hailemariam/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/heran-hailemariam/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/heran-hailemariam/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/heran-hailemariam/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/heran-hailemariam/leetcode/tree/master/2751-robot-collisions) |
@@ -943,6 +945,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/heran-hailemariam/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/heran-hailemariam/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/heran-hailemariam/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
