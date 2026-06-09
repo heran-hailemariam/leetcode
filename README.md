@@ -312,6 +312,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/heran-hailemariam/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/heran-hailemariam/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3689-maximum-total-subarray-value-i](https://github.com/heran-hailemariam/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/heran-hailemariam/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -969,6 +970,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/heran-hailemariam/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/heran-hailemariam/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/heran-hailemariam/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
 | ------- |
