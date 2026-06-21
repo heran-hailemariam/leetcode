@@ -223,6 +223,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/heran-hailemariam/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/heran-hailemariam/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1792-maximum-average-pass-ratio](https://github.com/heran-hailemariam/leetcode/tree/master/1792-maximum-average-pass-ratio) |
+| [1833-maximum-ice-cream-bars](https://github.com/heran-hailemariam/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/heran-hailemariam/leetcode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/heran-hailemariam/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/heran-hailemariam/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -825,6 +826,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/heran-hailemariam/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/heran-hailemariam/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/heran-hailemariam/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/heran-hailemariam/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/heran-hailemariam/leetcode/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -976,6 +978,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/heran-hailemariam/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/heran-hailemariam/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1792-maximum-average-pass-ratio](https://github.com/heran-hailemariam/leetcode/tree/master/1792-maximum-average-pass-ratio) |
+| [1833-maximum-ice-cream-bars](https://github.com/heran-hailemariam/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/heran-hailemariam/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1123,6 +1126,7 @@
 | [0561-array-partition](https://github.com/heran-hailemariam/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/heran-hailemariam/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/heran-hailemariam/leetcode/tree/master/1122-relative-sort-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/heran-hailemariam/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Function
 |  |
 | ------- |
