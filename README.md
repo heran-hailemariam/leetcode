@@ -272,6 +272,7 @@
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/heran-hailemariam/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/heran-hailemariam/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heran-hailemariam/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heran-hailemariam/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -536,6 +537,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/heran-hailemariam/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/heran-hailemariam/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3408-design-task-manager](https://github.com/heran-hailemariam/leetcode/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -653,6 +655,7 @@
 | [1995-count-special-quadruplets](https://github.com/heran-hailemariam/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/heran-hailemariam/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/heran-hailemariam/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/heran-hailemariam/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heran-hailemariam/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/heran-hailemariam/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
