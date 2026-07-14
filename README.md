@@ -294,6 +294,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/heran-hailemariam/leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3379-transformed-array](https://github.com/heran-hailemariam/leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -469,6 +470,7 @@
 | [3100-water-bottles-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3100-water-bottles-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3516-find-closest-person](https://github.com/heran-hailemariam/leetcode/tree/master/3516-find-closest-person) |
@@ -820,6 +822,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/heran-hailemariam/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/heran-hailemariam/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -945,6 +948,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/heran-hailemariam/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
 |  |
 | ------- |
