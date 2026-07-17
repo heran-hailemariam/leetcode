@@ -292,6 +292,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/heran-hailemariam/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/heran-hailemariam/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -472,6 +473,7 @@
 | [3100-water-bottles-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3100-water-bottles-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -560,6 +562,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/heran-hailemariam/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/heran-hailemariam/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3408-design-task-manager](https://github.com/heran-hailemariam/leetcode/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -699,6 +702,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Stack
 |  |
@@ -783,6 +787,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/heran-hailemariam/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/heran-hailemariam/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/heran-hailemariam/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3546-equal-sum-grid-partition-i](https://github.com/heran-hailemariam/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -933,6 +938,7 @@
 | [2347-best-poker-hand](https://github.com/heran-hailemariam/leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/heran-hailemariam/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/heran-hailemariam/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/heran-hailemariam/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/heran-hailemariam/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
@@ -954,6 +960,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/heran-hailemariam/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/heran-hailemariam/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -978,6 +985,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/heran-hailemariam/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/heran-hailemariam/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3488-closest-equal-element-queries) |
