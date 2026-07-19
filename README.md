@@ -625,6 +625,7 @@
 | [1002-find-common-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/heran-hailemariam/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/heran-hailemariam/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/heran-hailemariam/leetcode/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/heran-hailemariam/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -718,6 +719,7 @@
 | [0897-increasing-order-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/heran-hailemariam/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/heran-hailemariam/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1504-count-submatrices-with-all-ones](https://github.com/heran-hailemariam/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1598-crawler-log-folder](https://github.com/heran-hailemariam/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/heran-hailemariam/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1036,6 +1038,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/heran-hailemariam/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/heran-hailemariam/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/heran-hailemariam/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/heran-hailemariam/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1121,6 +1124,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/heran-hailemariam/leetcode/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1504-count-submatrices-with-all-ones](https://github.com/heran-hailemariam/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Binary Search Tree
 |  |
