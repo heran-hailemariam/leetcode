@@ -671,6 +671,7 @@
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/heran-hailemariam/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/heran-hailemariam/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/heran-hailemariam/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -690,6 +691,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/heran-hailemariam/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heran-hailemariam/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/heran-hailemariam/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/heran-hailemariam/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/heran-hailemariam/leetcode/tree/master/3713-longest-balanced-substring-i) |
