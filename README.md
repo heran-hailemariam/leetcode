@@ -308,6 +308,7 @@
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/heran-hailemariam/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heran-hailemariam/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -672,6 +673,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/heran-hailemariam/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/heran-hailemariam/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3606-coupon-code-validator](https://github.com/heran-hailemariam/leetcode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/heran-hailemariam/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -995,6 +997,7 @@
 | [3453-separate-squares-i](https://github.com/heran-hailemariam/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heran-hailemariam/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/heran-hailemariam/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1228,6 +1231,7 @@
 | [1622-fancy-sequence](https://github.com/heran-hailemariam/leetcode/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3454-separate-squares-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/heran-hailemariam/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
