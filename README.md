@@ -311,6 +311,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/heran-hailemariam/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heran-hailemariam/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/heran-hailemariam/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -479,6 +480,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/heran-hailemariam/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/heran-hailemariam/leetcode/tree/master/3516-find-closest-person) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/heran-hailemariam/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1028,6 +1030,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/heran-hailemariam/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/heran-hailemariam/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Interactive
 |  |
