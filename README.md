@@ -312,6 +312,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/heran-hailemariam/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/heran-hailemariam/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/heran-hailemariam/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -481,6 +482,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/heran-hailemariam/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3516-find-closest-person](https://github.com/heran-hailemariam/leetcode/tree/master/3516-find-closest-person) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/heran-hailemariam/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/heran-hailemariam/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -696,6 +698,7 @@
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heran-hailemariam/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/heran-hailemariam/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/heran-hailemariam/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/heran-hailemariam/leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -1031,6 +1034,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/heran-hailemariam/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Interactive
 |  |
