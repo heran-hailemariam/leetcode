@@ -147,6 +147,7 @@
 | [0561-array-partition](https://github.com/heran-hailemariam/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/heran-hailemariam/leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/heran-hailemariam/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/heran-hailemariam/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/heran-hailemariam/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -431,6 +432,7 @@
 | [0504-base-7](https://github.com/heran-hailemariam/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/heran-hailemariam/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/heran-hailemariam/leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/heran-hailemariam/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0788-rotated-digits) |
@@ -873,6 +875,7 @@
 | [0506-relative-ranks](https://github.com/heran-hailemariam/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/heran-hailemariam/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/heran-hailemariam/leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/heran-hailemariam/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/heran-hailemariam/leetcode/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/heran-hailemariam/leetcode/tree/master/0888-fair-candy-swap) |
