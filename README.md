@@ -159,6 +159,7 @@
 | [0840-magic-squares-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/heran-hailemariam/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/heran-hailemariam/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/heran-hailemariam/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/heran-hailemariam/leetcode/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
@@ -439,6 +440,7 @@
 | [0788-rotated-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/heran-hailemariam/leetcode/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/heran-hailemariam/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/heran-hailemariam/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/heran-hailemariam/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/heran-hailemariam/leetcode/tree/master/0908-smallest-range-i) |
@@ -838,6 +840,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/heran-hailemariam/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/heran-hailemariam/leetcode/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/heran-hailemariam/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/heran-hailemariam/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1301-number-of-paths-with-max-score](https://github.com/heran-hailemariam/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -1209,6 +1212,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/heran-hailemariam/leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/heran-hailemariam/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Geometry
