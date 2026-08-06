@@ -490,6 +490,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/heran-hailemariam/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/heran-hailemariam/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -717,6 +718,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/heran-hailemariam/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heran-hailemariam/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/heran-hailemariam/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/heran-hailemariam/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/heran-hailemariam/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
