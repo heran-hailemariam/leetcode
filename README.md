@@ -188,6 +188,7 @@
 | [1051-height-checker](https://github.com/heran-hailemariam/leetcode/tree/master/1051-height-checker) |
 | [1110-delete-nodes-and-return-forest](https://github.com/heran-hailemariam/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/heran-hailemariam/leetcode/tree/master/1122-relative-sort-array) |
+| [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/heran-hailemariam/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1184-distance-between-bus-stops](https://github.com/heran-hailemariam/leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/heran-hailemariam/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -454,6 +455,7 @@
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/heran-hailemariam/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/heran-hailemariam/leetcode/tree/master/1037-valid-boomerang) |
+| [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/heran-hailemariam/leetcode/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/heran-hailemariam/leetcode/tree/master/1175-prime-arrangements) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/heran-hailemariam/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -813,6 +815,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/heran-hailemariam/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -856,6 +859,7 @@
 | [0877-stone-game](https://github.com/heran-hailemariam/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/heran-hailemariam/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/heran-hailemariam/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/heran-hailemariam/leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/heran-hailemariam/leetcode/tree/master/1406-stone-game-iii) |
@@ -1233,6 +1237,7 @@
 | [0292-nim-game](https://github.com/heran-hailemariam/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/heran-hailemariam/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/heran-hailemariam/leetcode/tree/master/1406-stone-game-iii) |
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Geometry
@@ -1354,9 +1359,11 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/heran-hailemariam/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/heran-hailemariam/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
