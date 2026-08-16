@@ -258,6 +258,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/heran-hailemariam/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/heran-hailemariam/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/heran-hailemariam/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2029-stone-game-ix](https://github.com/heran-hailemariam/leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/heran-hailemariam/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/heran-hailemariam/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -481,6 +482,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/heran-hailemariam/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/heran-hailemariam/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/heran-hailemariam/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/heran-hailemariam/leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/heran-hailemariam/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/heran-hailemariam/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/heran-hailemariam/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -997,6 +999,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/heran-hailemariam/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/heran-hailemariam/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/heran-hailemariam/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/heran-hailemariam/leetcode/tree/master/2029-stone-game-ix) |
 | [2347-best-poker-hand](https://github.com/heran-hailemariam/leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/heran-hailemariam/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/heran-hailemariam/leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -1120,6 +1123,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/heran-hailemariam/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/heran-hailemariam/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/heran-hailemariam/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/heran-hailemariam/leetcode/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/heran-hailemariam/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/heran-hailemariam/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/heran-hailemariam/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1250,6 +1254,7 @@
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/heran-hailemariam/leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/heran-hailemariam/leetcode/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Geometry
 |  |
@@ -1372,9 +1377,15 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/heran-hailemariam/leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/heran-hailemariam/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/heran-hailemariam/leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/heran-hailemariam/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/heran-hailemariam/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
