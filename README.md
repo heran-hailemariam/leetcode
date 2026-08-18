@@ -315,6 +315,7 @@
 | [3453-separate-squares-i](https://github.com/heran-hailemariam/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3454-separate-squares-ii) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/heran-hailemariam/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/heran-hailemariam/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/heran-hailemariam/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -598,6 +599,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/heran-hailemariam/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3408-design-task-manager](https://github.com/heran-hailemariam/leetcode/tree/master/3408-design-task-manager) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/heran-hailemariam/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3484-design-spreadsheet](https://github.com/heran-hailemariam/leetcode/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/heran-hailemariam/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
