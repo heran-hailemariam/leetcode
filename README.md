@@ -642,6 +642,7 @@
 | [0013-roman-to-integer](https://github.com/heran-hailemariam/leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/heran-hailemariam/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/heran-hailemariam/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/heran-hailemariam/leetcode/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/heran-hailemariam/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/heran-hailemariam/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/heran-hailemariam/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -883,6 +884,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/heran-hailemariam/leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/heran-hailemariam/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/heran-hailemariam/leetcode/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/heran-hailemariam/leetcode/tree/master/0392-is-subsequence) |
