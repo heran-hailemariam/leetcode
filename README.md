@@ -675,6 +675,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/heran-hailemariam/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/heran-hailemariam/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/heran-hailemariam/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/heran-hailemariam/leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/heran-hailemariam/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -894,6 +895,7 @@
 | [0788-rotated-digits](https://github.com/heran-hailemariam/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/heran-hailemariam/leetcode/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/heran-hailemariam/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/heran-hailemariam/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/heran-hailemariam/leetcode/tree/master/1025-divisor-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/heran-hailemariam/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1140-stone-game-ii](https://github.com/heran-hailemariam/leetcode/tree/master/1140-stone-game-ii) |
