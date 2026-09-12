@@ -317,6 +317,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/heran-hailemariam/leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3379-transformed-array](https://github.com/heran-hailemariam/leetcode/tree/master/3379-transformed-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heran-hailemariam/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/heran-hailemariam/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3446-sort-matrix-by-diagonals](https://github.com/heran-hailemariam/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
@@ -929,6 +930,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/heran-hailemariam/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/heran-hailemariam/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/heran-hailemariam/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heran-hailemariam/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/heran-hailemariam/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/heran-hailemariam/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -997,6 +999,7 @@
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heran-hailemariam/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heran-hailemariam/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3446-sort-matrix-by-diagonals](https://github.com/heran-hailemariam/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/heran-hailemariam/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -1096,6 +1099,7 @@
 | [3161-block-placement-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/heran-hailemariam/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heran-hailemariam/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3453-separate-squares-i](https://github.com/heran-hailemariam/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/heran-hailemariam/leetcode/tree/master/3488-closest-equal-element-queries) |
