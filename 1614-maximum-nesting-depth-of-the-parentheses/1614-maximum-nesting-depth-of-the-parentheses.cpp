@@ -1,12 +1,19 @@
-#pragma GCC optimize("O3", "unroll-loops")
 class Solution {
 public:
-    int maxDepth(string& s) {
-        int ans=0, p=0;
-        for(char c: s){
-            p+=(c=='(')-(c==')');
-            ans=max(ans, p);
+    int maxDepth(std::string s) {
+        int depth = 0;
+        int r = 0;
+        for (char c : s) {
+            if (c == ')') {
+                depth--;
+                continue;
+            }
+            // Digits and operators
+            if (c != '(') continue;
+            depth++;
+            // New max only possible after '('
+            if (depth > r) r = depth;
         }
-        return ans;  
+        return r;
     }
 };
