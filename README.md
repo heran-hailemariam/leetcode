@@ -771,6 +771,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/heran-hailemariam/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/heran-hailemariam/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/heran-hailemariam/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2353-design-a-food-rating-system](https://github.com/heran-hailemariam/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/heran-hailemariam/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -896,6 +897,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/heran-hailemariam/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/heran-hailemariam/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2211-count-collisions-on-a-road](https://github.com/heran-hailemariam/leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/heran-hailemariam/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/heran-hailemariam/leetcode/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2352-equal-row-and-column-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/heran-hailemariam/leetcode/tree/master/2402-meeting-rooms-iii) |
