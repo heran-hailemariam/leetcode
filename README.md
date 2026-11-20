@@ -318,6 +318,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/heran-hailemariam/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heran-hailemariam/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/heran-hailemariam/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/heran-hailemariam/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/heran-hailemariam/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/heran-hailemariam/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -996,6 +997,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/heran-hailemariam/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/heran-hailemariam/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/heran-hailemariam/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/heran-hailemariam/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/heran-hailemariam/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/heran-hailemariam/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1074,6 +1076,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/heran-hailemariam/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/heran-hailemariam/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/heran-hailemariam/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/heran-hailemariam/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/heran-hailemariam/leetcode/tree/master/3433-count-mentions-per-user) |
