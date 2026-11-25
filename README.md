@@ -398,6 +398,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/heran-hailemariam/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/heran-hailemariam/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/heran-hailemariam/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -688,6 +689,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/heran-hailemariam/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/heran-hailemariam/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -1199,6 +1201,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/heran-hailemariam/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/heran-hailemariam/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/heran-hailemariam/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3934-smallest-unique-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1450,6 +1453,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/heran-hailemariam/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1567,4 +1571,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/heran-hailemariam/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/heran-hailemariam/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
